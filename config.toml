@@ -283,11 +283,16 @@ favicon16 = "favicon-16x16.png" # favicon-16x16.png
 ###############################################################################
 ### Commenting System for visitors to leave comments on pages.
 ###   hyvor talk
+###   remark42
 ###############################################################################
+
+#comment_system = "hyvor" # valid values are: "hyvor", "remark42"
 
 #comments.hyvor = "9366" # hyvor website id, comment out to disable.
 #comments.hyvorcolor = "os" # set the color property for hyvor
 
+#comments.remark42 = "https://comments.example.com" # remark42 server url, comment out to disable.
+#comments.remark42_site_id = "remark" # remark42 site id
 
 ###############################################################################
 ### Icons
